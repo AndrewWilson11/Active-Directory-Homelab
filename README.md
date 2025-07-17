@@ -16,6 +16,7 @@ Project consists of a simple PowerShell script that walks the user through "zero
 
 - <b>Windows 10</b> (21H2)
 -  <b>Server 2022</b>
+-  <b>Oracle VirtualBox</b>
 
 <h2>Program walk-through:</h2>
 
