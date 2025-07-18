@@ -26,7 +26,7 @@ Installing Windows: <br/>
 <br />
 <br />
 Active Directory Setup:  <br/>
-<img src="https://imgur.com/K6Q2hmA" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/K6Q2hmA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
