@@ -25,8 +25,8 @@ Installing Windows: <br/>
 <img src="https://imgur.com/M2yes1V.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Active Directory Setup:  <br/>
+<img src="https://imgur.com/K6Q2hmA" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
