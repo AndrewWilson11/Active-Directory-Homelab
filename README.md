@@ -9,7 +9,7 @@ This project will document my experience using Oracle VirtualBox to utilize Acti
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
+- <b>Command Prompt</b> 
 - <b>Diskpart</b>
 
 <h2>Environments Used </h2>
