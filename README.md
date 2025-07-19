@@ -30,6 +30,11 @@ Active Directory Setup:  <br/>
 <img src="https://imgur.com/6P0rDO3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+Creating a user in AD using "Copy":  <br/>
+<img src="https://imgur.com/Y9n00eD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
 
 <!--
  ```diff
