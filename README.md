@@ -36,13 +36,14 @@ Creating a user in AD using "Copy", and looking them up using Command Line:  <br
 <br />
 <br />
 Installing RSAT Tools on a separate machine, setting static IP's, and connecting it to the domain:  <br/>
-<img src="https://imgur.com/hzUToNF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://imgur.com/mfZ76B7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://imgur.com/T01OMDe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://imgur.com/eDyN0KN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/hzUToNF.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/mfZ76B7.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/T01OMDe.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/eDyN0KN.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-
+Passowrd rest for the "Helpdesk" user so they can log into to our domain:  <br/>
+<img src="https://imgur.com/SWGwkeQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
 <!--
