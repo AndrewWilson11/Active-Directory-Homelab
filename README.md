@@ -54,8 +54,6 @@ Creating OU's and changing Password Policy in Group Policy Management:  <br/>
 <img src="https://imgur.com/cCAuqLA.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <img src="https://imgur.com/6IoIDfi.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <img src="https://imgur.com/HkZD2fU.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
-
-
 <br />
 <br />
 
