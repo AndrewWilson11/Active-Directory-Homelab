@@ -1,7 +1,5 @@
 <h1>Active Directory Homelab</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
-
 <h2>Description</h2>
 This project will document my experience using Oracle VirtualBox to explore Active Directory and complete an assortment of different tasks.
 <br />
