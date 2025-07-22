@@ -46,6 +46,18 @@ Password reset for the "Helpdesk" user so they can log into to our domain:  <br/
 The user is connected, logged in, and has access!:  <br/>
 <img src="https://imgur.com/SWGwkeQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://imgur.com/aUGBE9t.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Creating OU's and changing Password Policy in Group Policy Management:  <br/>
+<img src="https://imgur.com/1fR1aHP.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/E8NeQ5s.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/TmYXtgh.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/ha9FptN.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/cCAuqLA.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/6IoIDfi.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/HkZD2fU.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+
+
+<br />
+<br />
 
 
 
