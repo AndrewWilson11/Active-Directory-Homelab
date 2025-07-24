@@ -62,6 +62,13 @@ Unlocking an Account for a User (patty):  <br/>
 <img src="https://imgur.com/5RPGm5E.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+Re-Enabling a disabled account(patty):  <br/>
+<img src="https://imgur.com/woE6al1.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/ezMnPTi.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/XxIm9Ls.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/5RPGm5E.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 
 
 
