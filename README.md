@@ -69,6 +69,13 @@ Re-Enabling a disabled account(patty):  <br/>
 <img src="https://imgur.com/5RPGm5E.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+User cannot log in due to disabled computer (helpdesk):  <br/>
+<img src="https://imgur.com/G1BoYwt.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/uLuxxZj.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/dxW1R87.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
 
 
 
