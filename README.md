@@ -20,17 +20,17 @@ This project will document my experience using Oracle VirtualBox to explore Acti
 
 <p align="center">
 Installing Windows: <br/>
-<img src="https://imgur.com/M2yes1V.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/M2yes1V.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Active Directory Setup:  <br/>
-<img src="https://imgur.com/K6Q2hmA.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
-<img src="https://imgur.com/6P0rDO3.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/K6Q2hmA.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/6P0rDO3.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Creating a user in AD using "Copy", and looking them up using Command Line:  <br/>
-<img src="https://imgur.com/Y9n00eD.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
-<img src="https://imgur.com/oYzDSwU.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/Y9n00eD.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/oYzDSwU.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Installing RSAT Tools on a separate machine, setting static IP's, and connecting it to the domain:  <br/>
