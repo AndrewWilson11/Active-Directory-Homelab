@@ -88,6 +88,18 @@ Creating security groups for the share folders and adding a user:  <br/>
 <img src="https://imgur.com/wa29Yjg.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+Adding group permissions to the share folders:  <br/>
+<img src="https://imgur.com/vBaCRGR.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/6abrJB1.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+User patty now has access to the share folders, and newtwork drive has been mapped for the "hr" folder:  <br/>
+<img src="https://imgur.com/6f5OSgP.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/SF79Z4Z.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/sXUaK4R.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
 
 
 
