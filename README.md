@@ -100,7 +100,7 @@ User patty now has access to the share folders, and newtwork drive has been mapp
 <br />
 <br />
 Giving the user patty another share drive from the "personal" share folder:  <br/>
-<img src="https://imgur.com/ZFqubLa.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/ZFqubLa.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <img src="https://imgur.com/kz1owva.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
