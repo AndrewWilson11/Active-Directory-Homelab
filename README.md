@@ -75,6 +75,10 @@ User cannot log in due to disabled computer (helpdesk):  <br/>
 <img src="https://imgur.com/dxW1R87.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+Creating Share Folders:  <br/>
+<img src="https://imgur.com/2tlOBFy.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/hSYxzTL.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/VxgCR3j.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 
 
 
