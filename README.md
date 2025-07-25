@@ -82,10 +82,10 @@ Creating Share Folders:  <br/>
 <br />
 <br />
 Creating security groups for the share folders and adding a user:  <br/>
-<img src="https://imgur.com/w8ypX1w.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
-<img src="https://imgur.com/9QpVOlN.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
-<img src="https://imgur.com/EpqMgQE.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
-<img src="https://imgur.com/wa29Yjg.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/w8ypX1w.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/9QpVOlN.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/EpqMgQE.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/wa29Yjg.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Adding group permissions to the share folders:  <br/>
