@@ -36,7 +36,7 @@ Creating a user in AD using "Copy", and looking them up using Command Line:  <br
 Installing RSAT Tools on a separate machine, setting static IP's, and connecting it to the domain:  <br/>
 <img src="https://imgur.com/hzUToNF.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <img src="https://imgur.com/mfZ76B7.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
-<img src="https://imgur.com/T01OMDe.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/T01OMDe.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <img src="https://imgur.com/eDyN0KN.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
