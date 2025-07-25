@@ -79,6 +79,15 @@ Creating Share Folders:  <br/>
 <img src="https://imgur.com/2tlOBFy.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <img src="https://imgur.com/hSYxzTL.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <img src="https://imgur.com/VxgCR3j.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Creating security groups for the share folders and adding a user:  <br/>
+<img src="https://imgur.com/w8ypX1w.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/9QpVOlN.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/EpqMgQE.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/wa29Yjg.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 
 
 
