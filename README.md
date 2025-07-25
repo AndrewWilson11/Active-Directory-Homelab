@@ -58,7 +58,7 @@ Creating OU's and changing Password Policy in Group Policy Management:  <br/>
 <br />
 Unlocking an Account for a User (patty):  <br/>
 <img src="https://imgur.com/KNKAObi.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
-<img src="https://imgur.com/v9yIco5.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/v9yIco5.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <img src="https://imgur.com/5RPGm5E.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
