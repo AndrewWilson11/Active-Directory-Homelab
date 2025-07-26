@@ -9,6 +9,8 @@ This project will document my experience using Oracle VirtualBox to explore Acti
 
 - <b>Command Prompt</b> 
 - <b>Diskpart</b>
+- <b>RDP</b> 
+
 
 <h2>Environments Used </h2>
 
