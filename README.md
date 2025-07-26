@@ -104,6 +104,14 @@ Giving the user patty another share drive from the "personal" share folder:  <br
 <img src="https://imgur.com/kz1owva.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+Using RDP to connect to another computer on the server (Unsecured for Lab Purposes):  <br/>
+<img src="https://imgur.com/XTrjJzh.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/S7nvtgr.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/B9QY0f6.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/gqqTUAc.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+ 
+<br />
+<br />
 
 
 
