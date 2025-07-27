@@ -115,7 +115,6 @@ Using RDP to connect to another computer on the server (Unsecured for Lab Purpos
 <br />
 Using PDQ Deploy to quickly install a program on computers on the network:  <br/>
 <img src="https://imgur.com/ad5f2Jy.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
-<img src="https://imgur.com/zQco75b.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <img src="https://imgur.com/KEQC2o0.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <img src="https://imgur.com/9pjZb50.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <img src="https://imgur.com/N7LN1uJ.png" height="70%" width="70%" alt="Disk Sanitization Steps"/> 
