@@ -120,6 +120,11 @@ Using PDQ Deploy to quickly install a program on computers on the network:  <br/
 <img src="https://imgur.com/N7LN1uJ.png" height="70%" width="70%" alt="Disk Sanitization Steps"/> 
 <br />
 <br />
+Using PDQ Inventory to run a report on a computer on the network:  <br/>
+<img src="https://imgur.com/uDLbPLE.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/r7q3Q1U.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 
 
 
