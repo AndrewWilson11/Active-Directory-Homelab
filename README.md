@@ -125,6 +125,14 @@ Using PDQ Inventory to run a report on a computer on the network:  <br/>
 <img src="https://imgur.com/r7q3Q1U.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+Setting up print features on the server, adding a printer and adding it to the domain, and adding the printer on a user's computer:  <br/>
+<img src="https://imgur.com/XUmYbry.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/QaZa2HY.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/yoFWYsU.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/6v6gh0n.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/JBW5yGY.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 
 
 
