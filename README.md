@@ -133,6 +133,13 @@ Setting up print features on the server, adding a printer and adding it to the d
 <img src="https://imgur.com/JBW5yGY.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+Creating a new user named "scott" and using delegate control to manage what he can and can't do:  <br/>
+<img src="https://imgur.com/HgxLlFP.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/xFleSw3.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/yoFWYsU.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/95e6qZW.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 
 
 
